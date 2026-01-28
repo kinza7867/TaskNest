@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "TaskNest",
+    "slug": "tasknest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android"
+    ],
+    "sdkVersion": "54.0.0",
+    "android": {
+      "package": "com.tasknest.app"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-community/datetimepicker"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b8c7abd3-d0bd-4db0-a3fb-756bd5bb93e9"
+      }
+    }
+  }
+}
